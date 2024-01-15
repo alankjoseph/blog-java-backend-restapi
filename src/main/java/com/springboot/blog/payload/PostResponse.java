@@ -69,10 +69,7 @@ public class PostResponse {
 	}
 
 	public PostResponse() {
-		
-	}
 
-	
-	
+	}
 
 }
